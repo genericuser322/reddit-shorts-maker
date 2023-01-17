@@ -11,3 +11,9 @@ it's hard to set up
 it's not finished
 there's bugs
 
+
+the files are in the master branch
+
+to use this you'll need to create a reddit app, take the codes and copy paste them in the code
+also you can switch the videos with your own (you should because mine are barely 720p)
+be careful running the code because it will *quickly*(python speed) take all the storage from your drive because it creates the sound files but wont delete the excess ones, just overwrite the one's needed.
