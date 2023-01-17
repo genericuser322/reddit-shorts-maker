@@ -1,0 +1,6 @@
+praw==7.6.1
+moviepy==1.0.3
+pyttsx3
+os
+random
+time
